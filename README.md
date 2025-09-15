@@ -2,6 +2,10 @@
 
 A SwiftUI quiz app that helps users learn and identify different dog breeds using the [Dog CEO API](https://dog.ceo/dog-api/). Built with modern iOS development practices and comprehensive testing.
 
+<img src="assets/screenshot.png" alt="drawing" width="200"/>
+<img src="assets/screen_recording.gif" alt="drawing" width="200"/>
+
+
 ## Problem Solution ✅
 
 **Challenge**: Build an engaging dog breed identification app with excellent UX and clean architecture.
