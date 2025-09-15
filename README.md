@@ -1,5 +1,9 @@
 # Dog Breed Detective 🐕
+***Can you tell a Shiba Inu from an Akita? A Whippet from a Greyhound?*** Dog Breed Detective challenges even the most devoted dog lovers with **hundreds of breeds** including rare sub-breeds that stump even veterinarians. With lightning-fast gameplay, zero loading delays, and stunning photography, every question transforms casual dog knowledge into serious expertise. Choose **Quick Fire** for a coffee-break challenge or tackle the full **30-question gauntlet** discovering breeds you never knew existed. Complete with celebratory confetti and smart scoring from "Puppy Trainer" to "Breed Master," this addictive game turns learning into pure fun. ***Ready to become the ultimate canine connoisseur?***
 
+
+
+## What is Dog Breed Detective?
 A SwiftUI quiz app that helps users learn and identify different dog breeds using the [Dog CEO API](https://dog.ceo/dog-api/). Built with modern iOS development practices and comprehensive testing.
 
 <img src="assets/screenshot.png" alt="drawing" width="200"/>
